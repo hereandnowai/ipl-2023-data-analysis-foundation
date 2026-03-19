@@ -1,0 +1,23 @@
+# Housing Prices Dataset Information
+
+This dataset contains information about housing in Boston.
+
+## Column Descriptions
+
+- **crim**: Per capita crime rate by town.
+- **zn**: Proportion of residential land zoned for lots over 25,000 sq.ft.
+- **indus**: Proportion of non-retail business acres per town.
+- **chas**: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
+- **nox**: Nitric oxides concentration (parts per 10 million).
+- **rm**: Average number of rooms per dwelling.
+- **age**: Proportion of owner-occupied units built prior to 1940.
+- **dis**: Weighted distances to five Boston employment centres.
+- **rad**: Index of accessibility to radial highways.
+- **tax**: Full-value property-tax rate per $10,000.
+- **ptratio**: Pupil-teacher ratio by town.
+- **b**: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
+- **lstat**: % lower status of the population.
+- **medv**: Median value of owner-occupied homes in $1000's (Target).
+
+## Source
+Publicly available dataset originally from the StatLib library.

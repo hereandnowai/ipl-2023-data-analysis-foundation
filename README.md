@@ -1,53 +1,70 @@
-# Data Analysis to AI Foundations – 10 Real-World Projects (NumPy + Pandas + Matplotlib)
+<div align="center">
 
-Welcome to the **Data Analysis to AI Foundations** repository! This project-based course is designed for complete beginners to master the essential tools of data science and build a rock-solid foundation for Artificial Intelligence and Machine Learning.
+![HERE AND NOW AI](https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png)
 
-## 🎯 Core Objectives
+# Data Analysis to AI Foundation - 10 Real-World Projects with NumPy, Pandas & Matplotlib
 
-1.  **Understand Data Analysis Fundamentals:** Learn how to think like a data scientist.
-2.  **Master NumPy:** Perform high-performance numerical computing.
-3.  **Master Pandas:** Manipulate, clean, and explore real-world datasets.
-4.  **Master Matplotlib:** Create professional data visualizations.
-5.  **Build AI Foundations:** Implement core algorithms (Linear Regression, Logistic Regression, K-Means) from scratch using only NumPy and Pandas.
+### *"AI is Good"*
 
-## 🚀 Learning Path
+10 real-world data analysis to AI foundation projects using NumPy, Pandas and Matplotlib by HERE AND NOW AI.
 
-The repository is structured into 10 progressive projects, each building on the previous one:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Organization](https://img.shields.io/badge/HERE%20AND%20NOW%20AI-hereandnowai-004040)](https://github.com/hereandnowai)
 
-1.  **Titanic Data Cleaning & Analysis:** The "Hello World" of data science.
-2.  **House Price Prediction:** Your first look at Linear Regression math.
-3.  **Binary Classification:** Predicting outcomes with Logistic Regression.
-4.  **Data Visualization Dashboard:** Creating a visual story with Matplotlib.
-5.  **Customer Segmentation:** Unsupervised learning with K-Means.
-6.  **Recommendation System:** Building a simple movie recommender.
-7.  **Time Series Analysis (Stock Data):** Working with dates and trends.
-8.  **NLP Text Analysis:** Basic text processing and sentiment intuition.
-9.  **Monte Carlo Simulation:** Understanding probability and risk.
-10. **End-to-End Analysis Project:** A final capstone combining all skills.
-
-## 📦 Project Structure
-
-Each project folder contains:
-- `concepts.ipynb`: Learn the theory and basics first.
-- `notebook.ipynb`: Step-by-step real-world implementation.
-- `download_data.py`: Script to fetch the real dataset.
-- `dataset_info.md`: Documentation for the data.
-- `assignment.md`: Practice tasks to test your knowledge.
-- `README.md`: Project-specific instructions.
-
-## 🛠️ Setup Instructions
-
-Please refer to [setup_instructions.md](setup_instructions.md) for detailed steps on setting up your environment.
-
-### Quick Start
-```bash
-# Clone the repository
-git clone <repo-url>
-cd data-analysis-to-ai-foundation
-
-# Install dependencies
-pip install -r requirements.txt
-```
+</div>
 
 ---
-*Created by the AI Educator Team.*
+
+## About
+
+This project is developed and maintained by **HERE AND NOW AI**. 10 real-world data analysis to AI foundation projects using NumPy, Pandas and Matplotlib by HERE AND NOW AI.
+
+Built for learners, developers, and teams who want to leverage Python, NumPy, Pandas and Matplotlib in real-world scenarios. All materials are crafted with a hands-on, practical approach to ensure maximum learning and productivity.
+
+## Features
+
+- 10 real-world data analysis projects\n- NumPy, Pandas, and Matplotlib in practice\n- IPL 2023 dataset exploration\n- Foundation for AI and ML workflows
+
+## Getting Started
+
+### Prerequisites
+
+- See project files for specific requirements
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/hereandnowai/ipl-2023-data-analysis-foundation.git
+cd ipl-2023-data-analysis-foundation
+```
+
+## Usage
+
+Explore the project folders and follow the instructions in each subdirectory. Refer to inline comments and documentation for guidance.
+
+---
+
+## Connect with HERE AND NOW AI
+
+| | |
+|---|---|
+| 🌐 **Website** | [hereandnowai.com](https://hereandnowai.com) |
+| 📧 **Email** | [info@hereandnowai.com](mailto:info@hereandnowai.com) |
+| 📞 **Phone** | +91 996 296 1000 |
+| 💼 **LinkedIn** | [linkedin.com/company/hereandnowai](https://www.linkedin.com/company/hereandnowai/) |
+| 🐦 **X / Twitter** | [x.com/hereandnow_ai](https://x.com/hereandnow_ai) |
+| 📸 **Instagram** | [instagram.com/hereandnow_ai](https://instagram.com/hereandnow_ai) |
+| ▶️ **YouTube** | [youtube.com/@hereandnow_ai](https://youtube.com/@hereandnow_ai) |
+| 🐙 **GitHub** | [github.com/hereandnowai](https://github.com/hereandnowai) |
+| 📝 **Blog** | [hereandnowai.com/blog](https://hereandnowai.com/blog) |
+
+---
+
+<div align="center">
+
+**HERE AND NOW AI** — *AI is Good*
+
+© 2025 HERE AND NOW AI. All rights reserved.
+
+</div>
